@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="20px" viewBox="0 0 30 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>visible</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="visible">
+            <circle id="Oval" fill="#000000" cx="29" cy="10" r="1"></circle>
+            <circle id="Oval" fill="#000000" cx="1" cy="10" r="1"></circle>
+            <circle id="Oval" fill="#333333" cx="15" cy="10" r="3"></circle>
+            <path d="M29.803,9.408 C29.803,9.408 24,0 15,0 C6,0 0.197,9.408 0.197,9.408 L0.163,10.544 C0.162,10.544 5,20 15,20 C25,20 29.838,10.544 29.838,10.544 L29.803,9.408 Z M15,17 C11.134,17 8,13.866 8,10 C8,6.134 11.134,3 15,3 C18.866,3 22,6.134 22,10 C22,13.866 18.866,17 15,17 Z" id="Shape" fill="#333333" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,9 @@
+# Configuration file
+.env
+
+# IDE
+*__pycache__/
+.idea/
+
+# Virtualenv
+env/

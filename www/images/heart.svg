@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="59px" viewBox="0 0 64 59" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M63.9830069,18.8966329 C63.9936946,19.0142829 63.9993362,19.1356463 63.9998411,19.2608242 C64.0418651,29.6798781 54.3995696,42.2503962 35.0729546,56.9723785 C33.2568754,58.3557796 30.7409596,58.3575758 28.9229025,56.9767751 C13.7119302,45.4241557 4.50069999,35.1486037 1.28921206,26.1501191 C0.503898562,24.1105448 0.0528365425,21.9010984 0.00436260866,19.5911191 C0.00188171266,19.4807982 0.000446900225,19.3706999 5.81710654e-05,19.2608242 C-6.07060302e-06,19.2426661 -1.70823478e-05,19.2245619 2.50373654e-05,19.2065114 C8.3479069e-06,19.1959962 0,19.185479 0,19.1749599 C0,8.58492196 8.46076063,0 18.8976378,0 C23.7557181,0 28.4075083,1.86004987 31.9924786,4.91656631 C35.5774488,1.86004987 40.229239,0 45.0873193,0 C55.432609,0 63.8363122,8.43491123 63.9830069,18.8966329 Z" id="path-1"></path>
+        <filter x="-10.9%" y="-12.1%" width="121.9%" height="124.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="-4" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons/heart/x160" transform="translate(0.000000, -3.000000)">
+            <g id="Group" transform="translate(0.000000, 3.200000)">
+                <g id="Combined-Shape">
+                    <use fill="#FF3366" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

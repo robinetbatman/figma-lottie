@@ -33,6 +33,7 @@ In Figma, create a frame named @lottie. That’s where your animation will be re
    }
 }
 ![](tuto/step2.gif)
-### 3. Enjoy
-Paste the frame link here, add your Lottie files, and enjoy 🔥 Time to share it with your friends!
+### 3. Paste the canvas link and add the animation file(s)
+On Figma Lottie, you’ll be able to connect to your Figma account and paste your Frame link. Then, upload your Lottie files and enjoy your animated mockup :tada: Edit your animations files or Figma canvas and update the render until you’re happy with the result.
+
 ![](tuto/step3.gif)

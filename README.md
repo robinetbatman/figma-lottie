@@ -21,6 +21,19 @@
 - run Rabbitmq with *rabbitmq-server*
 - run your app with *python manage.py runserver <hostname>:<port>*, and you're ready to go (Celery will automatically start by running the *manage.py* with *celery -A tacos worker -l info*)
 
-### Frontend
-- update DOMAIN in js/figma_utils.js
-- server static files with a web server like nginx
+## Tutorial
+### 1. Setup your animation in Figma.
+In Figma, create a frame named @lottie. That’s where your animation will be rendered. It gets its size and position from that rectangle.
+![](tuto/step1.gif)
+### 2. [Optional] Control the animation by commenting with code:
+{
+   “arguments”: {
+      “loop”: false,
+      ”speed”: 5,
+   }
+}
+![](tuto/step2.gif)
+### 3. Paste the canvas link and add the animation file(s)
+On Figma Lottie, you’ll be able to connect to your Figma account and paste your Frame link. Then, upload your Lottie files and enjoy your animated mockup :tada: Edit your animations files or Figma canvas and update the render until you’re happy with the result.
+
+![](tuto/step3.gif)

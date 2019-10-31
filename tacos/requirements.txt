@@ -7,4 +7,4 @@ psycopg2-binary==2.7.4
 pandas==0.24.2
 PyYAML==5.1
 requests==2.21.0
-Werkzeug==0.13
+Werkzeug==0.15.3

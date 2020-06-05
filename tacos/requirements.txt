@@ -1,5 +1,5 @@
 boto3==1.4.5
-Django==2.0.2
+Django==2.2.13
 django-cors-headers==2.5.3
 celery==4.3.0
 gunicorn==19.9.0
